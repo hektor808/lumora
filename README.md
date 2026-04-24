@@ -42,3 +42,4 @@ npm run build
 ```
 
 The 3D city scene is lazy-loaded so the main page bundle stays responsive while preserving the cinematic hero experience.
+"# lumora" 
